@@ -113,3 +113,4 @@ try:
 
 except Exception:
     st.error("Brak pełnych danych dla wybranej konfiguracji. Wybierz inny model.")
+
